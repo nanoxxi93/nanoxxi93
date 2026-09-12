@@ -1,4 +1,4 @@
-## Hernando Arima
+# Hernando Arima
  
 Fullstack developer since 2018. I build web applications end to end: interfaces in JavaScript and TypeScript, REST APIs in Node.js, and everything underneath — databases, containers and deployment.
  
@@ -18,7 +18,7 @@ Fullstack developer since 2018. I build web applications end to end: interfaces 
 | Backend | Node.js / Express (5), .NET Core / C# (3), Python — Flask, FastAPI (2), Rust / Axum (1) |
 | Languages | JavaScript (5), TypeScript (5), C# (3), Python (2) |
 | Databases | PostgreSQL / PL-pgSQL (4), MongoDB (2), Redis (2), MS SQL (2) |
-| Infrastructure | Docker, Nginx, Git, AWS, GCP, Azure, Cloudflare, Vercel |
+| Infrastructure | Docker, Nginx, Git, AWS, GCP (Apigee), Azure, Cloudflare, Vercel |
 | Testing | Mocha, pytest, Vitest |
  
 ### Projects
@@ -37,10 +37,12 @@ Live demos and details for each one are at [harima.top](https://harima.top/en/).
 ### Education
  
 Industrial Engineering — Universidad Privada del Norte (2010–2014)
+API Security with the Apigee API Platform — Google Cloud, 2026
+API Design and Fundamentals of Apigee — Google Cloud, 2026
+Google Cloud Fundamentals: Core Infrastructure — Google Cloud, 2026
+Certified Nuxt Master — Vue School, 2024
 Scrum Foundation Professional Certificate (SFPC) — Certiprof, 2023
-JavaScript Algorithms and Data Structures — freeCodeCamp, 2022
-IBM Cloud Essentials V3 — Cognitive Class, 2021
-English B2 Upper Intermediate — EF SET
+English B2 — EF SET (62/100)
  
 ### Contact
  
