@@ -27,7 +27,8 @@ Fullstack developer since 2018. I build web applications end to end: interfaces 
 |---|---|---|
 | Exchange API | USD exchange rate snapshots | Rust, Axum, MongoDB |
 | Promos | Search engine for bank and retail promotions | Node.js, Express, Nuxt 3 |
-| Spender | Personal finance app with offline sync | Node.js, Express, MongoDB |
+| Tebeo | Android comic reader that streams from a NAS (WebDAV, SMB, FTP, S3) | Kotlin, Jetpack Compose, Room |
+| Spender | Personal finance app for web and Android with offline sync | Nuxt 4, Capacitor, Express, MongoDB |
 | Funds | Mutual fund dashboard with interactive charts | Node.js, Express, Mongoose |
 | RAG Index | RAG system with LlamaIndex and NVIDIA NIM | Python, LlamaIndex |
 | Node AMQP | Messaging lab with RabbitMQ | Node.js, amqplib |
